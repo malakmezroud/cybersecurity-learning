@@ -33,8 +33,8 @@ cybersecurity-learning/
 ## 📍 Learning Roadmap
 
 ### Phase 1 — Foundations (Apr – Jun 2026)
-- [ ] Networking fundamentals (OSI model, TCP/IP, DNS, HTTP/S, subnetting)
-- [ ] Linux basics (file system, permissions, bash scripting)
+- [x] Networking fundamentals (OSI model, TCP/IP, DNS, HTTP/S, subnetting)
+- [x] Linux basics (file system, permissions, bash scripting)
 - [ ] Cryptography basics (symmetric/asymmetric, hashing, PKI)
 - [ ] Common attack types (phishing, MITM, SQL injection, XSS, buffer overflow)
 - [ ] Complete TryHackMe Pre-Security & SOC Level 1 paths
@@ -44,7 +44,7 @@ cybersecurity-learning/
 - [ ] Nmap — network scanning and enumeration
 - [ ] SIEM fundamentals (Splunk, Microsoft Sentinel)
 - [ ] Log analysis — identifying suspicious activity
-- [ ] Python scripting for security automation
+- [x] Python scripting for security automation
 
 ### Phase 3 — Pre-Master's Prep (Sept 2026)
 - [ ] Review CompTIA Security+ exam objectives
@@ -59,13 +59,15 @@ cybersecurity-learning/
 | Topic | Status | Notes |
 |---|---|---|
 | OSI Model | ✅ Done | See `notes/networking/osi-model.md` |
-| TCP/IP & Subnetting | 🔄 In Progress | |
-| Linux File System | 🔄 In Progress | |
-| TryHackMe Pre-Security | 🔄 In Progress | |
-| Wireshark Basics | ⏳ Pending | |
+| TCP/IP & Subnetting | ✅ Done | See `notes/networking/osi-model.md` |
+| Linux File System & Commands | ✅ Done | See `tools/linux-commands/linux-cheatsheet.md` |
+| SOC Fundamentals | ✅ Done | See `notes/soc-and-siem/soc-fundamentals.md` |
+| TryHackMe Pre-Security | 🔄 In Progress | Starting now |
+| Wireshark Basics | 🔄 In Progress | See `tools/wireshark/wireshark-basics.md` |
+| Python Security Scripts | 🔄 In Progress | See `scripts/` |
 | Nmap Scanning | ⏳ Pending | |
 | SIEM / Splunk | ⏳ Pending | |
-| Python Security Scripts | ⏳ Pending | |
+| Cryptography Basics | ⏳ Pending | |
 
 ---
 
